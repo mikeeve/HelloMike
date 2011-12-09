@@ -1,0 +1,7 @@
+#    Blank lines or lines starting with # are ignored.
+#    Standard glob patterns work.
+#   You can end patterns with a forward slash (/) to specify a directory.
+#    You can negate a pattern by starting it with an exclamation point (!).
+
+# ignore gedit backup files
+*~
